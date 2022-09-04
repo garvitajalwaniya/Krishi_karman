@@ -1,0 +1,2 @@
+# Krishi_karman
+Even today, in 2022 farmers in India remain underpaid, underprivileged, and uneducated. Our project will help to solve this issue by providing farmers with a portal(kiosk in this case) that will gather information from existing sources at a single point of interest in a User-Friendly, Multi-Lingual to increase the reachability of the information and make it accessible at fingertips to masses. 
