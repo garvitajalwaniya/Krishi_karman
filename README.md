@@ -6,4 +6,5 @@ Our idea is to integrate our device with the already existing E-Mitra kiosk avai
 
 ## Reference
 Video link For UI prototype - https://drive.google.com/file/d/1hu5zTDNyZWMQCdluWoKduvehzTjNgcBv/view?usp=sharing
+
 survey - https://drive.google.com/file/d/1HIzod2uF52U79N44HFN8xsSpRToJXK5K/view?usp=sharing
